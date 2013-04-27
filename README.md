@@ -1,4 +1,4 @@
 curry-powder
 ============
 
-General repository for testing purposes.
+This is an update test.
